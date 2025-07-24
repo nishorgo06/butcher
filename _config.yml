@@ -2,5 +2,4 @@ title: Neelothpol Das
 logo: /assets/img/logo.png
 description: Concrete flowers
 show_downloads: false
-google_analytics:
-theme: PaperMod
+theme: jekyll-theme-minimal
