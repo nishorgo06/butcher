@@ -1,4 +1,4 @@
-***Hey, I’m Neelothpol Das. I’m 18 years old and currently in my last year at Sabujbagh Government College. I’m into photography and cinematography, and I also like to sketch and draw whenever I get the time. I’m also a student at Chhayanaut Sangeet Biddayoton as well, learning music alongside my studies.***
+_***Hey, I’m Neelothpol Das. I’m 18 years old and currently in my last year at Sabujbagh Government College. I’m into photography and cinematography, and I also like to sketch and draw whenever I get the time. I’m also a student at Chhayanaut Sangeet Biddayoton as well, learning music alongside my studies.***_
 
 I finished a 3-year course at Bangladesh Shishu Academy, which really helped me get involved with cultural stuff early on. I went to Ideal School and College for school, where I was pretty active different clubs and events. Even now in college, I’m still doing club volunteering whenever I can.
 
