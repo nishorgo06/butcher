@@ -26,8 +26,10 @@
   }
     
   body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
   background: transparent;
-  position: relative;
   z-index: 0;
 }
     
@@ -108,10 +110,11 @@
   position: fixed;
   top: 0;
   left: 0;
-  min-width: 100%;
-  min-height: 100%;
+  width: 100vw;
+  height: 100vh;
   object-fit: cover;
   z-index: -1;
+  pointer-events: none;
 ">
   <source src="E13A444B-28C6-4D88-9EE4-59E6A2AE619C_2.mp4" type="video/mp4">
   Your browser does not support the video tag.
