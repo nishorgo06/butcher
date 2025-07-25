@@ -26,14 +26,12 @@
   }
     
   body {
-  background-image: url('background.jpg'); /* put your image file name here */
-  background-size: cover;      /* cover whole screen */
-  background-position: center; /* center the image */
-  background-attachment: fixed; /* keeps image fixed when scrolling */
+  background: transparent;
   color: #ff3dbe;
   width: 100%;
+  position: relative;
 }
-
+    
   /* FONT FACE */
   
 
@@ -107,6 +105,19 @@
 
 </head>
 <body style="display:none;">
+  
+  <video autoplay muted loop playsinline id="bg-video" style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  z-index: -1;
+">
+  <source src="background.mp4" type="video/mp4">
+</video>
+
   <div class="text">
     <h1 style="animation-delay: .1s;">Yo I'm neelothpol, 19:>in my last year of college and just kinda figuring things out as I go.&nbsp;</h1>
                               <p style="animation-delay: 0.2s;">I’m no expert, but definitely crushing on digital and hand-drawn <a target="_blank" href="https://www.instagram.com/_nishorg.o/">art</a> snapping random pics on my phone.</p>
