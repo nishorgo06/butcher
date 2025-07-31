@@ -1,0 +1,140 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1b3f91;
+  color: white;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  max-width: 600px;
+  border: 3px solid white;
+  background-color: #3a72c3;
+  box-shadow: 0 0 20px #000;
+  position: relative;
+  margin-top: 30px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+}
+
+.nav li {
+  margin: 10px 0;
+}
+
+.nav a {
+  color: white;
+  text-decoration: underline;
+  font-size: 16px;
+}
+
+.nav a:hover {
+  color: cyan;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.cyber {
+  font-weight: bold;
+}
+
+.xp {
+  color: red;
+  font-weight: bold;
+}
+
+.mascot {
+  position: absolute;
+  right: -40px;
+  bottom: -20px;
+  width: 120px;
+}
+
+.bio-section {
+  display: flex;
+  align-items: flex-start;
+  background-color: #2a4a7f;
+  border: 2px solid white;
+  padding: 20px;
+  margin: 40px auto;
+  width: 90%;
+  max-width: 700px;
+  color: white;
+  font-family: monospace;
+  gap: 20px;
+}
+
+.bio-img {
+  width: 140px;
+  border-radius: 10px;
+}
+
+.bio-text {
+  max-width: 500px;
+}
+
+.bio-name {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.bio-excl {
+  color: #aaff77;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.highlight {
+  color: #aaff77;
+}
+
+.bio-label {
+  font-weight: bold;
+}
+
+.bio-label.dni {
+  color: #e6c865;
+}
+
+.bio-label.byf {
+  color: #fff09a;
+}
+
+.bio-label.likes {
+  color: #ccff99;
+}
+
+.bio-label.links {
+  color: #ccff99;
+}
+
+.bio-text a {
+  color: white;
+  text-decoration: underline;
+}
+
+.bio-text a:hover {
+  color: cyan;
+}
